@@ -1,7 +1,0 @@
-name: TerraAddonTemplate
-main: com.yourname.terraaddon.TerraAddonTemplate
-version: 0.1.0
-load: STARTUP
-depend:
-  - Terra
-api-version: 1.13
